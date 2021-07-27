@@ -1,3 +1,5 @@
 Create database ridho;
 Create table rsmh;
 Alter table rsmh add nama varchar (25);
+
+Yg bener Bae Peh klo galak
